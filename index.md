@@ -4,12 +4,11 @@ layout: default
 group: home
 ---
 
-<img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/>
+<img src="/static/img/kingsley_01.jpg" class="img-responsive center-block"/>
 
-<h1 class="text-center">Benjamin Barad, Ph.D.</h1>
+<h1 class="text-center">Evan P Kingsley, PhD</h1>
 
 <p class="lead text-justify">
-I am a structural biologist with a special interest in emerging computational and experimental methods in electron microscopy. I am working as a postdoc with [Danielle Grotjahn](https://www.scripps.edu/faculty/grotjahn/), using cryo-electron tomography of focused ion beam-thinned cells to quantify mitochondrial morphology and solve _in situ_ protein structures. In particular, I am excited about the power of electron tomography to contextualize the structure, dynamics, and interactions of proteins as they perform their physiolocal function in the cell.    
-I received my PhD in biophysics from UCSF in the lab of [James Fraser](http://fraserlab.com), where I developed methods for the building and validating atomic models generated from single particle electron microscopy, as well as investigating the mechanisms of activity of mammalian chitinases. Before that, I was an undergraduate at Stanford University studying Biological Chemistry, where I worked with [Elizabeth Sattely](http://www.stanford.edu/group/sattelygroup/cgi-bin/wordpress/) investigating bacterial degradation of the plant polymer lignin.   
-Beyond my scientific interests, I am excited about food and cooking, coffee, 3D printing, and games. 
-</p>
+I am a evolutionary and developmental biologist studying the developmental genetic basis of evolutionary adaptation. I am currently a postdoc in the lab of [Cliff Tabin](https://tabin.hms.harvard.edu/), combining genomics and classical embryological techniques to study the evolutionary and developmental origin of the syrinx, the avian voicebox.
+I received my PhD in Organismic and Evolutionary Biology at Harvard in the lab of [Hopi Hoekstra](https://hoekstra.oeb.harvard.edu/), where I worked on the evolution of tail length variation in deer mice. 
+Before that, I worked on early cleavage in snail embryos as a technician in [Dave Lambert's](http://www.sas.rochester.edu/bio/people/faculty/lambert_david/) lab at the University of Rochester.</p>
