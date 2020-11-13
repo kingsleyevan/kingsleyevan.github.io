@@ -1,15 +1,47 @@
 - title: "Identity and novelty in the avian syrinx"
   citation: "**Kingsley EP, Eliason CM**, Riede T, Li Z, Hiscock TW, Farnsworth M, Thomson SL, Goller F, Tabin CJ, Clarke JA. *PNAS*. 2018."
   date: '2018'
-  # image: ''
+  image: 'static/img/pub/F4.large.jpg'
   pmid: '30249637'
   pmcid: 'PMC6187200'
   pdf: 'https://www.pnas.org/content/pnas/115/41/10209.full.pdf'
 
 - title: "The ultimate and proximate mechanisms driving the evolution of long tails in forest deer mice"
-  citation: "**Kingsley EP, Kozak KM**, Pfeiffer S, Yang D-S, and Hoekstra HE. *Evolution*. 2017."
+  citation: "**Kingsley EP, Kozak KM**, Pfeiffer S, Yang D-S, Hoekstra HE. *Evolution*. 2017."
   date: '2017'
-  #image: ''
+  image: 'static/img/pub/F1.large.jpg'
   pmid: '27958661'
   pmcid: 'PMC5324611'
   pdf: 'https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/evo.13150'
+
+- title: "On the origin and spread of an adaptive allele in deer mice"
+  citation: "Linnen CR, **Kingsley EP**, Jensen JD, Hoekstra HE. *Science*. 2009."
+  date: '2009'
+  image: 'static/img/pub/F1.large.jpg'
+  pmid: '19713521'
+  pmcid: 'PMC2736094'
+  pdf: 'https://science.sciencemag.org/content/325/5944/1095.long'
+
+- title: "Melanism in *Peromyscus* Is Caused by Independent Mutations in Agouti"
+  citation: "**Kingsley EP**, Manceau M, Wiley CD, Hoekstra HE. *PLoS ONE*. 2009."
+  date: '2009'
+  image: 'static/img/pub/g001.png'
+  pmid: '19649329'
+  pmcid: 'PMC2713407'
+  pdf: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0006435&type=printable'
+
+- title: "Nanos is required in somatic blast cell lineages in the posterior of a mollusk embryo"
+  citation: "Rabinowitz JS, Chan XY, **Kingsley EP**, Duan Y, Lambert JD. *Curr Biol*. 2008."
+  date: '2008'
+  image: 'static/img/pub/gr2.jpg'
+  pmid: '18308570'
+  # pmcid: ''
+  pdf: 'static/pdf/rabinowitz_2008.pdf'
+
+  - title: "Widespread RNA segregation in a spiralian embryo"
+  citation: "**Kingsley EP**, Chan XY, Duan Y, Lambert JD. *Evol Dev*. 2007."
+  date: '2007'
+  image: 'static/img/pub/ede_194_f2.jpg'
+  pmid: '17976050'
+  # pmcid: ''
+  pdf: 'static/pdf/kingsley_2007.pdf'
