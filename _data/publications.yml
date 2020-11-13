@@ -30,13 +30,13 @@
   pmcid: 'PMC2713407'
   pdf: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0006435&type=printable'
 
-- title: "Nanos is required in somatic blast cell lineages in the posterior of a mollusk embryo"
-  citation: "Rabinowitz JS, Chan XY, **Kingsley EP**, Duan Y, Lambert JD. *Curr Biol*. 2008."
-  date: '2008'
-  image: 'static/img/pub/gr2.jpg'
-  pmid: '18308570'
-  # pmcid: ''
-  pdf: 'static/pdf/rabinowitz_2008.pdf'
+#- title: "Nanos is required in somatic blast cell lineages in the posterior of a mollusk embryo"
+#  citation: "Rabinowitz JS, Chan XY, **Kingsley EP**, Duan Y, Lambert JD. *Curr Biol*. 2008."
+#  date: '2008'
+#  image: 'static/img/pub/gr2.jpg'
+#  pmid: '18308570'
+#  # pmcid: ''
+#  pdf: 'static/pdf/rabinowitz_2008.pdf'
 
 - title: "Widespread RNA segregation in a spiralian embryo"
   citation: "**Kingsley EP**, Chan XY, Duan Y, Lambert JD. *Evol Dev*. 2007."
