@@ -9,7 +9,7 @@
 - title: "The ultimate and proximate mechanisms driving the evolution of long tails in forest deer mice"
   citation: "**Kingsley EP, Kozak KM**, Pfeiffer S, Yang D-S, Hoekstra HE. *Evolution*. 2017."
   date: '2017'
-  image: '/static/img/pub/F1.large.jpg'
+  image: '/static/img/pub/evo13150-fig-0001-m.jpg'
   pmid: '27958661'
   pmcid: 'PMC5324611'
   pdf: 'https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/evo.13150'
@@ -33,7 +33,7 @@
 - title: "Nanos is required in somatic blast cell lineages in the posterior of a mollusk embryo"
   citation: "Rabinowitz JS, Chan XY, **Kingsley EP**, Duan Y, Lambert JD. *Curr Biol*. 2008."
   date: '2008'
-  image: 'static/img/pub/gr2.jpg'
+  image: '/static/img/pub/gr2.jpg'
   pmid: '18308570'
   # pmcid: ''
   pdf: 'static/pdf/rabinowitz_2008.pdf'
