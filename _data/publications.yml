@@ -36,7 +36,7 @@
   image: '/static/img/pub/gr2.jpg'
   pmid: '18308570'
   # pmcid: ''
-  pdf: 'static/pdf/rabinowitz_2008.pdf'
+  pdf: '/static/pdf/rabinowitz_2008.pdf'
 
 - title: "Widespread RNA segregation in a spiralian embryo"
   citation: "**Kingsley EP**, Chan XY, Duan Y, Lambert JD. *Evol Dev*. 2007."
@@ -44,4 +44,4 @@
   image: '/static/img/pub/ede_194_f2.jpg'
   pmid: '17976050'
   # pmcid: ''
-  pdf: 'static/pdf/kingsley_2007.pdf'
+  pdf: '/static/pdf/kingsley_2007.pdf'
