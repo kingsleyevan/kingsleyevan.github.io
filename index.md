@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<img src="/static/img/research_img.jpg" class="img-responsive center-block" style="max-width: 200px;">
+<img src="/static/img/research_img.jpg" class="img-responsive center-block" style="max-height: 150px;">
 
 <h1 class="text-center">Evan P Kingsley, PhD</h1>
 
