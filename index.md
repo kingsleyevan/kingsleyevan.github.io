@@ -9,7 +9,7 @@ group: home
 <h1 class="text-center">Evan P Kingsley, PhD</h1>
 
 <p class="lead text-justify">
-I am an evolutionary biologist studying the developmental genetic basis of evolutionary adaptation. I will start my lab in the [Biology Department at Rhodes College](https://www.rhodes.edu/academics/majors-minors/biology) in Fall, 2024.
+I am an evolutionary biologist studying the developmental genetic basis of evolutionary adaptation in the [Biology Department at Rhodes College](https://www.rhodes.edu/academics/majors-minors/biology).
 </p>
 <p class="lead text-justify">
 Previously, I was a postdoc in the lab of [Cliff Tabin](https://tabin.hms.harvard.edu/), combining genomics and classical embryological techniques to study the evolutionary and developmental origin of the syrinx, the avian voicebox.
